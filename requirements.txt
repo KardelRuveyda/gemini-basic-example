@@ -9,3 +9,5 @@ langchain_chroma
 langchainhub
 pypdf
 rapidocr-onnxruntime
+langsmith
+langchain_openai
